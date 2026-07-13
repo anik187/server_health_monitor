@@ -31,7 +31,9 @@ memory_usage
 echo
 echo "############## disk space info for mounted filesystems ##############"
 echo
+
 disk_space
+
 echo
 echo "############## top 5 processes as per cpu usage ##############"
 echo
